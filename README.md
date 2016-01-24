@@ -1,13 +1,20 @@
-cookie-clicker
+Wall Simulator 2015
 ==============
-
 This is a copy of the publicly available source of the game cookie clicker by orteil.  
 
-Here is the actual game:
+Here is the original game:
 http://orteil.dashnet.org/cookieclicker/
 
 Here is the orteil home page:
 http://orteil.dashnet.org/
 
+View at:
+http://mvhscodingclub.github.io/
 
-The purpose of this repository is to provide a jumping off point for javascript programming for Coder Dojo members.
+
+![ScreenShot](https://raw.githubusercontent.com/MVHSCodingClub/MVHSCodingClub.github.io/master/img/imperfectCookie.png)
+
+For Testing Purposes -
+Type javascript:Game.cookies = 1000000000000
+into address bar
+
